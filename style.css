@@ -1,5 +1,23 @@
-table , tr , td {
-    
+div {
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+    margin: 0 auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* table , tr , td {
     border: 1px solid black;
 }
 
@@ -14,4 +32,4 @@ tr {
 
 td {
     width: 20px;
-}
+} */
