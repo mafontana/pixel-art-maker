@@ -9,16 +9,12 @@ for (i=0; i < 400; i++) {
     newSquare.className = "square"
     pixelCanvas.appendChild(newSquare);
     }
+    
 
 
-    newSquare.addEventListener("click", function(){
-        newSquare.style.color = "blue"
-
-
-
-
-
-
+    // for (i=0; i < 400; i++) {
+        square.addEventListener("click", function(){
+        square.style.background = "blue"
     })
 
 
