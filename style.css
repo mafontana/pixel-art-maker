@@ -20,14 +20,14 @@
 } 
 
 .pixelCanvas {
-    width: 500px;
-    height: 300px;
+    width: 220px;
+    height: 220px;
     border: 2px solid red;
     display: flex;
     flex-wrap: wrap;
-    margin: 0px;
     padding: 0px;
     overflow: hidden;
+    margin: 0 auto;
 }
 
 
