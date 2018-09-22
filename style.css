@@ -35,6 +35,16 @@
     height: 50px;
     border: 2px solid black;
     margin: 30px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.colorBlue {
+    height: 30px;
+    width: 30px;
+    background-color: lightblue;
+    margin: 10px;
+
 }
 
 
