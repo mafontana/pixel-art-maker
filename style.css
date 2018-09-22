@@ -44,12 +44,24 @@
     width: 30px;
     background-color: lightblue;
     margin: 10px;
-
+    border: 1px solid grey;
 }
 
+.colorOrange {
+    height: 30px;
+    width: 30px;
+    background-color: coral;
+    margin: 10px;
+    border: 1px solid grey;
+}
 
-
-
+.colorYellow {
+    height: 30px;
+    width: 30px;
+    background-color: yellow;
+    margin: 10px;
+    border: 1px solid grey;
+}
 
 
 
